@@ -1,0 +1,30 @@
+NEBULA N44 — AVISO IMPORTANTE
+
+Nebula N44 es un asistente de inteligencia artificial gratuito que
+funciona en tu ordenador. Antes de usarlo, ten claro esto:
+
+1. LA IA SE EQUIVOCA. Puede inventar datos, entender mal lo que dices y
+   hacer algo que no querías. Comprueba siempre lo importante.
+
+2. NO ES UN PROFESIONAL. No le hagas caso como si fuera un médico,
+   psicólogo, abogado, asesor financiero o técnico de seguridad. En una
+   emergencia, llama a los servicios de emergencia.
+
+3. ACTÚA EN TU ORDENADOR SI LO AUTORIZAS. Puede abrir e instalar
+   programas, escribir en otras apps, enviar correos y crear avisos.
+   Lee bien cada permiso antes de aceptarlo: lo que autorizas es
+   responsabilidad tuya. Haz copias de seguridad.
+
+4. TUS DATOS SON TUYOS. Se quedan en tu ordenador. La voz en línea envía
+   el texto de las respuestas a Microsoft para leerlas en voz alta; si no
+   quieres, elige una voz local en AJUSTES. Más en PRIVACIDAD.txt.
+
+5. SIN GARANTÍA. Se entrega tal cual, sin garantía y sin soporte
+   obligatorio. Los detalles, los límites de responsabilidad y lo que no
+   está permitido (como la ingeniería inversa) están en LICENCIA.txt.
+
+6. INDEPENDIENTE. Nebula N44 no está afiliado a Microsoft, NVIDIA,
+   GitHub, Marvel, Disney ni a ninguna otra marca que mencione.
+
+Descárgalo solo de la página oficial:
+https://github.com/nicomr92008-rgb/NebulaN44/releases

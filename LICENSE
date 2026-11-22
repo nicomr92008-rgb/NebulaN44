@@ -1,0 +1,154 @@
+NEBULA N44 — CONTRATO DE LICENCIA DE USUARIO FINAL (EULA)
+Versión 1.0 · 21 de noviembre de 2026
+
+Copyright (C) 2026 Nebula N44. Todos los derechos reservados.
+
+LÉELO ANTES DE INSTALAR. Al instalar, copiar o usar Nebula N44 (el
+«Software») aceptas este contrato. Si no lo aceptas, no lo instales ni lo
+uses. Si usas el Software en nombre de una empresa, declaras que puedes
+obligarla a este contrato.
+
+1. QUIÉN ES QUIÉN
+   «Titular» es el propietario de Nebula N44 y de sus derechos, o quien los
+   adquiera en el futuro. «Tú» o «Usuario» es la persona que instala o usa
+   el Software. Si eres menor de edad, necesitas el permiso de tu padre,
+   madre o tutor, que acepta este contrato por ti y responde de su uso.
+
+2. LICENCIA
+   El Titular te concede una licencia gratuita, personal, no exclusiva,
+   intransferible, revocable y sin derecho a sublicenciar, para instalar y
+   usar el Software en ordenadores que te pertenezcan o que controles, para
+   fines lícitos. El Software se licencia, no se vende: el Titular conserva
+   la propiedad del Software y de todas sus copias.
+
+3. LO QUE NO PUEDES HACER
+   Salvo que la ley aplicable lo permita expresamente pese a esta cláusula,
+   no puedes:
+   a) descompilar, desensamblar, aplicar ingeniería inversa o intentar
+      obtener el código fuente, los algoritmos o las instrucciones internas
+      del Software, ni ayudar a otros a hacerlo;
+   b) modificar, traducir, adaptar o crear obras derivadas del Software, ni
+      alterar, eludir o desactivar sus límites, sus comprobaciones de
+      integridad o sus medidas de protección;
+   c) vender, alquilar, prestar, sublicenciar, distribuir, publicar o poner
+      el Software a disposición de terceros, ni ofrecerlo como servicio;
+      para compartirlo, enlaza a la página oficial de descargas;
+   d) quitar o cambiar avisos de copyright, marcas o este contrato;
+   e) usar el nombre, el logotipo o la marca «Nebula N44» para identificar
+      productos o servicios propios, ni dar a entender que el Titular te
+      respalda;
+   f) usar el Software para algo ilegal, para dañar, vigilar, acosar,
+      suplantar o engañar a otras personas, para acceder sin permiso a
+      sistemas o datos ajenos, para crear o difundir programas maliciosos,
+      para enviar spam, o para infringir derechos de terceros;
+   g) usar el Software en situaciones donde un fallo pueda causar muerte,
+      lesiones o daños graves (medicina, vehículos, aviación, armas,
+      infraestructuras críticas, emergencias).
+
+4. QUÉ ES EL SOFTWARE Y SUS LÍMITES
+   a) Es un asistente de inteligencia artificial (IA). La IA se equivoca:
+      puede dar respuestas falsas, incompletas, desactualizadas u
+      ofensivas, entender mal lo que dices o lo que oye, y elegir una
+      acción equivocada. Comprueba siempre lo importante.
+   b) No es un profesional. Nada de lo que diga es consejo médico,
+      psicológico, legal, financiero, fiscal ni de seguridad. Consulta a
+      un profesional. En una emergencia, llama a los servicios de
+      emergencia, no al Software.
+   c) Puede actuar en tu ordenador cuando se lo pides o lo autorizas:
+      abrir e instalar programas, escribir o pulsar en otras aplicaciones,
+      enviar correos, crear avisos y eventos, buscar en internet, etc.
+      Antes de cada acción que cambia algo, el Software te pide permiso si
+      así lo configuras. TÚ ERES EL ÚNICO RESPONSABLE de lo que autorices,
+      de cómo configures los permisos (incluido el modo autónomo) y de sus
+      consecuencias. Haz copias de seguridad de lo que te importe.
+   d) Los programas que instale, las páginas que abra o los servicios que
+      use son de terceros y tienen sus propias condiciones, que debes
+      aceptar y cumplir tú.
+
+5. COMPONENTES Y SERVICIOS DE TERCEROS
+   El Software incluye o descarga componentes de terceros (Python,
+   llama.cpp, modelos de lenguaje, Whisper, voces de Piper, librerías de
+   NVIDIA, fuentes tipográficas y otros), cada uno con su propia licencia,
+   que prevalece para ese componente; la lista está en
+   LICENCIAS-TERCEROS.txt. Algunas funciones usan servicios en línea de
+   terceros (por ejemplo, la voz en línea de Microsoft, GitHub, Hugging
+   Face o los buscadores web), que pueden cambiar, limitarse o dejar de
+   funcionar en cualquier momento sin que el Titular responda por ello.
+   Los modelos de IA que eliges descargar no son del Titular, que no
+   controla ni garantiza lo que generan.
+
+6. ACTUALIZACIONES
+   El Software puede comprobar si hay versiones nuevas en su página
+   oficial e instalarlas si tú lo eliges. Las actualizaciones se rigen por
+   este contrato o por el que las acompañe. El Titular no está obligado a
+   publicar actualizaciones, correcciones ni a dar soporte.
+
+7. PRIVACIDAD
+   El tratamiento de datos se explica en PRIVACIDAD.txt, que forma parte de
+   este contrato. En resumen: el Software funciona en tu ordenador y el
+   Titular no recibe tus conversaciones, tu memoria ni tus archivos.
+
+8. SIN GARANTÍA
+   EL SOFTWARE SE ENTREGA GRATIS, «TAL CUAL» Y «SEGÚN DISPONIBILIDAD», CON
+   TODOS SUS FALLOS Y SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA,
+   INCLUIDAS LAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN, EXACTITUD,
+   SEGURIDAD, FUNCIONAMIENTO SIN INTERRUPCIONES O ERRORES, Y NO
+   INFRACCIÓN. USAS EL SOFTWARE BAJO TU PROPIO RIESGO.
+
+9. LÍMITE DE RESPONSABILIDAD
+   EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, EL TITULAR, SUS SUCESORES Y
+   COLABORADORES NO RESPONDEN DE NINGÚN DAÑO DIRECTO, INDIRECTO,
+   INCIDENTAL, ESPECIAL, CONSECUENTE O PUNITIVO, NI DE LA PÉRDIDA DE
+   DATOS, ARCHIVOS, DINERO, BENEFICIOS, OPORTUNIDADES O REPUTACIÓN, NI DE
+   DAÑOS A TU EQUIPO, NI DE LAS ACCIONES QUE EL SOFTWARE REALICE CON TU
+   AUTORIZACIÓN, NI DE LO QUE DIGA LA IA, NI DE LOS SERVICIOS Y PROGRAMAS
+   DE TERCEROS, AUNQUE SE HUBIERA ADVERTIDO DE SU POSIBILIDAD. SI ALGUNA
+   RESPONSABILIDAD NO PUDIERA EXCLUIRSE, QUEDA LIMITADA A LO QUE PAGASTE
+   POR EL SOFTWARE (CERO) O, SI LA LEY EXIGE UN MÍNIMO, A ESE MÍNIMO.
+   Nada en este contrato excluye responsabilidades que la ley no permite
+   excluir (por ejemplo, por dolo o culpa grave) ni los derechos
+   irrenunciables que tengas como consumidor.
+
+10. INDEMNIDAD
+   Te comprometes a mantener indemne al Titular frente a reclamaciones,
+   daños, multas y gastos (incluidos honorarios de abogados razonables)
+   causados por tu uso del Software contrario a este contrato o a la ley,
+   o por las acciones que hayas autorizado.
+
+11. MARCAS
+   «Nebula N44», su nombre, logotipo e imagen son del Titular. Nebula N44
+   es un producto independiente: no está afiliado, patrocinado ni
+   aprobado por Microsoft, NVIDIA, GitHub, Hugging Face, OpenAI, Meta,
+   Google, Marvel, The Walt Disney Company, Anker, ni por ninguna otra
+   empresa cuyos productos, servicios o marcas se mencionen o con los que
+   el Software pueda interactuar. Esas marcas son de sus dueños y se
+   nombran solo para describir compatibilidad.
+
+12. DURACIÓN Y TERMINACIÓN
+   El contrato dura mientras uses el Software. Termina automáticamente si
+   lo incumples, y el Titular puede terminarlo o retirar el Software en
+   cualquier momento. Al terminar, deja de usarlo y desinstálalo. Las
+   cláusulas 3, 5 y 8 a 15 siguen vigentes después.
+
+13. CAMBIOS DEL CONTRATO
+   El Titular puede cambiar este contrato. La versión nueva se publica en
+   la página oficial o acompaña a una actualización; si sigues usando el
+   Software después, la aceptas. Si no estás de acuerdo, deja de usarlo.
+
+14. CESIÓN
+   El Titular puede ceder este contrato y los derechos sobre el Software y
+   la marca a un tercero (por ejemplo, en una venta) sin tu consentimiento.
+   Tú no puedes cederlo.
+
+15. LEY Y TRIBUNALES
+   Este contrato se rige por las leyes de la República de Colombia. Para
+   cualquier controversia, las partes se someten a los jueces de Bogotá
+   D.C., salvo que la ley imperativa de tu país te dé derecho a litigar
+   ante los jueces de tu domicilio. Si una cláusula es nula, el resto
+   sigue vigente y esa se aplica en la medida permitida. Que el Titular no
+   exija un derecho no significa que renuncie a él. Este contrato, junto
+   con PRIVACIDAD.txt y AVISO-LEGAL.txt, es el acuerdo completo sobre el
+   Software.
+
+16. CONTACTO
+   https://github.com/nicomr92008-rgb/NebulaN44/issues

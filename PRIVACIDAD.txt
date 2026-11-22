@@ -1,0 +1,59 @@
+NEBULA N44 — POLÍTICA DE PRIVACIDAD
+Versión 1.0 · 21 de noviembre de 2026
+
+Resumen: Nebula N44 funciona en tu ordenador. El Titular de Nebula N44 no
+tiene servidores que reciban tus datos: no recoge, no ve, no vende y no
+comparte tus conversaciones, tu voz, tu memoria, tus archivos ni tus
+contraseñas. No hay cuentas, publicidad, analítica ni telemetría.
+
+1. LO QUE SE QUEDA EN TU ORDENADOR
+   - Conversaciones, memoria, ajustes, avisos y notas: en tu carpeta de
+     datos (%LOCALAPPDATA%\Nebula N44).
+   - Tu voz: se transcribe en tu ordenador (Whisper). El audio no se
+     guarda ni se envía a ningún sitio.
+   - El modelo de lenguaje («el cerebro») se ejecuta en tu ordenador.
+   - Las contraseñas de los conectores (correo) se guardan cifradas en el
+     Administrador de credenciales de Windows, no en archivos de la app.
+   Tú controlas estos datos: puedes borrarlos desde la app, borrando esa
+   carpeta, o al desinstalar (te pregunta si quieres borrarlos).
+
+2. CUÁNDO SE CONECTA A INTERNET Y CON QUIÉN
+   Nebula N44 solo se conecta para lo siguiente. Cada servicio es de un
+   tercero con su propia política de privacidad, y recibe como mínimo tu
+   dirección IP:
+   - Voz en línea (por defecto, voz «Salomé»): el TEXTO de cada respuesta
+     que se lee en voz alta se envía al servicio de voz de Microsoft Edge
+     para convertirlo en audio. Tu voz no se envía. Si prefieres que
+     nada salga de tu ordenador, elige una voz local en AJUSTES.
+   - Búsquedas en internet que le pidas: lo que se busca se envía al
+     buscador (DuckDuckGo) y las páginas que se abran reciben la visita.
+   - Descargas de componentes (la primera vez o cuando cambias de modelo
+     o de voz): GitHub (llama.cpp), Hugging Face (modelos de lenguaje y
+     voces), PyPI (librerías de NVIDIA) y similares.
+   - Actualizaciones: consulta la página pública de versiones de Nebula
+     N44 en GitHub, sin enviar datos tuyos.
+   - Conectores que actives tú: tu proveedor de correo (para leer o enviar
+     el correo que pidas) y el calendario cuyo enlace pegues.
+   - Lo que pidas abrir (YouTube, Spotify, páginas web, programas) se
+     comunica con sus propios servicios.
+
+3. EL TITULAR
+   El Titular no recibe nada de lo anterior. Si nos escribes por GitHub
+   (incidencias), lo que publiques allí es público y lo trata GitHub según
+   su política.
+
+4. MENORES
+   Nebula N44 no está dirigido a menores de 14 años. Los menores de edad
+   deben usarlo con permiso y supervisión de sus padres o tutores.
+
+5. TUS DERECHOS
+   Como tus datos no salen hacia el Titular, los ejerces directamente en tu
+   ordenador (verlos, corregirlos, borrarlos). Frente a los terceros del
+   punto 2, ejércelos ante cada uno. Esta política se ajusta a la Ley 1581
+   de 2012 de Colombia y a la normativa aplicable.
+
+6. CAMBIOS
+   Si una versión nueva cambia lo que se envía a internet, se indicará en
+   sus notas y en esta política.
+
+Contacto: https://github.com/nicomr92008-rgb/NebulaN44/issues
